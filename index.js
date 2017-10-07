@@ -1,5 +1,5 @@
 'use strict';
 
-var litecore = require('litecore-lib');
+var unitedcore = require('unitedcore-lib');
 
-module.exports = litecore;
+module.exports = unitedcore;
